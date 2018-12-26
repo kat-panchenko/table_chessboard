@@ -21,11 +21,11 @@ table {
 
 td {
   color: #302c2f;
-  padding: 10px;
-  font-size: 35px;
+  padding: 10px 20px;
+  font-size: 60px;
   font-weight: bolder;
-  height: 50px;
-  width: 50px;
+  height: 100px;
+  width: 100px;
 }
 
 .white td:nth-child(n+1):nth-child(-n+16) {
