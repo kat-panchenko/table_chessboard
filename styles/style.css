@@ -27,6 +27,7 @@ td {
   height: 100px;
   width: 100px;
 }
+
 .white td:nth-child(n+1):nth-child(-n+16) {
   color: white;
 }
